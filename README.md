@@ -22,7 +22,7 @@ After both installations complete, run the following command in your terminal:
 npm start
 ```
 
-Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
+Your app should now be running on <https://fmx-tulus.herokuapp.com/>. The Express server should intercept any AJAX requests from the client.
 
 ## Deployment (Heroku)
 
